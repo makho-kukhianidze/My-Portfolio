@@ -242,13 +242,13 @@ a{
   color: white;
   padding: 4px;
 }
-.html {width: 93%; background-color: #c5761d;} 
-.css {width: 86%; background-color: #1988e4;} 
-.Sass {width: 82%; background-color: #d849d1;} 
-.Boostrap {width: 75%; background-color: #4f26c2;} 
-.jQuery{width: 70%; background-color: #9c3bb4;} 
-.js {width: 55%; background-color: #afad18;} 
-.React {width: 50%; background-color: #449bb1;} 
+.html {width: 100%; background-color: #c5761d;} 
+.css {width: 100%; background-color: #1988e4;} 
+.Sass {width: 100%; background-color: #d849d1;} 
+.Boostrap {width: 100%; background-color: #4f26c2;} 
+.jQuery{width: 100%; background-color: #9c3bb4;} 
+.js {width: 100%; background-color: #afad18;} 
+.React {width: 100%; background-color: #449bb1;} 
 .resume img{
   width: 217px;
   height: 166px;
